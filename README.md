@@ -1,4 +1,4 @@
-# PCL
+# Source Code for PCL
 
 ### Prototypical Classifier for Robust Class-Imbalanced Learning
 
@@ -6,6 +6,7 @@
 
 [[`arXiv`](https://arxiv.org/pdf/2110.11553.pdf)] [slides] [[`bibtex`](#Citation)]
 
+This paper won the **Best Paper Award** at PAKDD 2022!
 
 ## Installation
 
